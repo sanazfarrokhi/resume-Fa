@@ -1,37 +1,51 @@
-## Welcome to GitHub Pages
+<img src="https://avatars3.githubusercontent.com/u/74496324?s=400&u=d5ff97b67cdf8e26531c5a94a82623165d4cd4df&v=4">
 
-You can use the [editor on GitHub](https://github.com/sanazfarrokhi/resume-Fa/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<h1> درباره ی من</h1>
+  <p> ساناز فرخی , متولد  ۱۴ اردیبهشت  ۱۳۶۷ , متاهل , دانشجوی ترم ششم علوم فناوری  در دانشگاه پیام نور واحد تهران شمال  واقع در شهر تهران هستم و در حال حاضر مشغول بکار هستم**
 
-### Markdown
+.</p>
+  
+  <ul>
+    <h3> مشخصات فردی</h3>
+  <li>نام:ساناز </li>
+  <li>نام خانوادگے: فرخی</li>
+  <li>وضعیت تاهل: متاهل</li>
+  <li>تاریخ تولد: ۱۳۶۷/۰۲/۱۴ </li>
+</ul>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+  
+<h1>مهارت ها</h1>
 
-```markdown
-Syntax highlighted code block
+<ul>
+  <li>HTML</li>
+ <li>بودجه بندی</li>
+  <li>حسابداری</li>
+ <li>نسخه خوانی </li>
+  <li>مدیریت اموزش</li>
 
-# Header 1
-## Header 2
-### Header 3
+</ul>
 
-- Bulleted
-- List
+<h1> مدرک ها</h1>
+<ul>
+  <li>حسابداری </li>
+  <li>JavaScript</li>
+</ul>
 
-1. Numbered
-2. List
+<h1> زبان ها</h1>
+<ul>
+  <li>فارسی</li>
+   <li>انگلیسی</li>
+  <li>ترکی استانبولی</li>
+</ul>
 
-**Bold** and _Italic_ and `Code` text
+<h1> سوابق تحصیلی </h1>
+<ul>
+   <li> دیپلم رشته‌ی ریاضے و فیزیک /li>
+   <li> دانشجوی ڪارشناسی رشته ی فناوری اطلاعات  در دانشگاه پیام نور تهران شمال  و در حال تحصیل</li>
+</ul>
 
-[Link](url) and ![Image](src)
-```
+<br/>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sanazfarrokhi/resume-Fa/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+  <li>رزومه ی انگلیسی: <a href="https://atieh-farokhi.github.io/resume.EN/"> رزومه </a></li>
+</ul>
